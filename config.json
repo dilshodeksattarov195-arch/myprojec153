@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartprocess",
+        "uuid": 800802,
+        "checksum": "vjz0cs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
